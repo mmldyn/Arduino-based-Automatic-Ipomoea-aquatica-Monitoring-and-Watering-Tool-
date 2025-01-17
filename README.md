@@ -1,0 +1,2 @@
+# Arduino-based-Automatic-Ipomoea-aquatica-Monitoring-and-Watering-Tool-
+This repository provides Arduino code for monitoring Ipomoea aquatica growth by tracking temperature, soil moisture, and plant height. It features automatic watering when soil moisture is low. The code, calibrated for Ipomoea aquatica, can be adjusted for other plants by modifying thresholds. Documentation is included for easy use. 
